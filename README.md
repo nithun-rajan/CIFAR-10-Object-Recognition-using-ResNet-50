@@ -2,9 +2,6 @@
 
 This project implements a deep learning-based image classification model using **ResNet-50** to recognize objects from the **CIFAR-10** dataset. CIFAR-10 consists of 60,000 32x32 color images across 10 classes. The model is built using **TensorFlow/Keras** and leverages **transfer learning** via a pre-trained ResNet-50 architecture.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/CIFAR-10_image.png" alt="CIFAR-10 Sample" width="600"/>
-</p>
 
 ---
 
