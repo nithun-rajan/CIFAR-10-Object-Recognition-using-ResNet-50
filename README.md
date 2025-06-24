@@ -72,14 +72,6 @@ Metric	Value
 Accuracy	~86–90%
 Loss	Reduced steadily with early stopping
 Confusion Matrix	Included for detailed class-level analysis
-📁 Project Structure
-
-├── main.py                  # Training script
-├── models/                  # Saved model and weights
-├── utils/                   # Preprocessing & augmentation functions
-├── outputs/                 # Logs, confusion matrix, plots
-└── README.md
-📌 Key Learnings
 
 Transfer Learning with ResNet-50 improves performance significantly.
 Resizing CIFAR-10 to match ResNet input (224x224) is essential.
